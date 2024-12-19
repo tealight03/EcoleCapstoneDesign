@@ -12,8 +12,7 @@ Click here to move!</a>
   <li>
     <b>1. 교점에 별 만들기</b><br><br>
     <img src="https://github.com/user-attachments/assets/784e4d8a-e504-4f29-bb74-377247ab767b" width="800"><br><br>
-
-    ```
+    
     def solution(line):
         import math
     
@@ -64,9 +63,6 @@ Click here to move!</a>
     result = solution(line)
     for row in result:
         print(row)
-    ```
-    <b>solution.py</b>
-
   </li>
   <li></li>
 </ul>
