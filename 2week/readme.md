@@ -13,11 +13,6 @@ Click here to move!</a>
     <b>1. 콜라스 추측</b><br><br>
     <img src="https://github.com/user-attachments/assets/784e4d8a-e504-4f29-bb74-377247ab767b" width="800"><br><br>
 
-    ```
-    
-    ```
-    <b>solution.py</b>
-
   </li>
   <li></li>
 </ul>
